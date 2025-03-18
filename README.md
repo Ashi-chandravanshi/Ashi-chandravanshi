@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Ashi Chandravanshi
+--😄 I'm currently enrolled in BTech CSE with specialization in AI/ML at LNCT.
+--🌱 I'm currently learning Java Full Stack Development.
 
 <!--
 **Ashi-chandravanshi/Ashi-chandravanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
